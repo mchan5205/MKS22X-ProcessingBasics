@@ -81,5 +81,5 @@ void setup() {
 void draw() {
   background(255);
   v.display();
- // v.update();
+  v.update();
 }
